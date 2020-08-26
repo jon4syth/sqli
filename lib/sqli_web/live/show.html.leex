@@ -1,0 +1,10 @@
+<h1>Widget View<h1>
+<table>
+    <tr><td>Description</td> <td>Sku #</td></tr>
+    <%= for widget <- @widget do %>
+    <tr>
+        <td><%= widget.description %></td>
+        <td><%= widget.sku %></td>
+    </tr>
+    <% end %>
+</table>
