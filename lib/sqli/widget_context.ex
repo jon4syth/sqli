@@ -6,8 +6,6 @@ defmodule Sqli.WidgetContext do
   import Ecto.Query, warn: false
   alias Sqli.Repo
 
-  alias Sqli.WidgetContext.Widget
-
 
   @doc """
   Gets a single widget.
