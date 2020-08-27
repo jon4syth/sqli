@@ -8,3 +8,4 @@
 ## Tools
   * [ZAP - Open Source Security Scanner](https://owasp.org/www-project-zap/)
   * [sqlmap - SQLi Penetration Testing](http://sqlmap.org/)
+  * [Juice Shop - OWASP insecure application](https://github.com/bkimminich/juice-shop)
